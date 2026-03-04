@@ -21,7 +21,7 @@ The goal is to build and compare different forecasting approaches to improve ene
 
 ## 🗂 Dataset
 
-The dataset contains historical energy consumption measurements recorded over time in an office building.
+The dataset contains historical energy consumption measurements extracted from monthly energy bills in an office building.
 
 ### Key Characteristics
 
